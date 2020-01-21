@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="title">Hey there!</string>
-    <string name="information">There\'s some info you might want to know before you start theming. You see, everything outside overlays and wallpapers is completely hit or miss. If it doesn\'t work, blame substratum. You can use the buttons below to get bootanimations, sound packs and fonts.</string>
-    <string name="proceed">Continue</string>
-    <string name="drive">Drive</string>
-</resources>
