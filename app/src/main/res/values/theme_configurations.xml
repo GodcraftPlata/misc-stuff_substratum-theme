@@ -20,7 +20,7 @@
     <string name="ThemeHeroOverride">light</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>• Change app's icon</item>
+        <item>• Change app icon</item>
         <item>• Add option to remove "Clear All" button on Quickstep and Lawnchair</item>
         <item>• Reset heroimage to default cuz I forgot to make one with the new icon</item>
         <item>• Update Gradle and other stuff to make the studio happy</item>
