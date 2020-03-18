@@ -6,7 +6,7 @@
     <!--suppress CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail">omarps464@gmail.com</string>
     <!-- Theme wallpaper source (must be raw) -->
-    <string name="ThemeWallpaperSource"></string>
+    <string name="ThemeWallpaperSource"> </string>
     <!-- Do your theme support substratum legacy? -->
     <!-- If you choose not to support legacy, then change the following line from -->
     <!-- 'true' to 'false' to hide your theme on the Play Store from any stock ROM-->
@@ -20,6 +20,9 @@
     <string name="ThemeHeroOverride">light</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Initial release</item>
+        <item>• Change app's icon</item>
+        <item>• Add option to remove "Clear All" button on Quickstep and Lawnchair</item>
+        <item>• Reset heroimage to default cuz I forgot to make one with the new icon</item>
+        <item>• Update Gradle and other stuff to make the studio happy</item>
     </string-array>
 </resources>
