@@ -21,7 +21,9 @@ As for now, we got the following:
 
 • Motorola new sounds
 
-• Hide "Clear All" button on Lawnchair and Quickstep
+• Hide "Clear All" button on Lawnchair, Quickstep and OneUI launcher
+
+• iOS Recents on Lawnchair (broken)
 
 Another thing to note, I use master for everything. If something breaks thre, I'll just fix it.
 
