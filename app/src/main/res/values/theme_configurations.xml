@@ -20,6 +20,6 @@
     <string name="ThemeHeroOverride">light</string>
     <!-- Put your theme changelog here, each item will be a new bullet point in the sheet -->
     <string-array name="ThemeChangelog">
-        <item>Add overlay that yeets dividers</item>
+        <item>Add navbars</item>
     </string-array>
 </resources>
