@@ -34,6 +34,6 @@ https://drive.google.com/open?id=1n_TEWBE1ZHpfbSeGFCiFb-Y8PBkyHiZD
 
 • pierx for the inspiration to make a little splash screen (even if it isn't working, like at all)
 
-• AndyGCYan (XDA) for letting me use his navbar overlays for MIUI and Oreo navbars (kang 100)
+• AndyYan (XDA) for letting me use his navbar overlays for MIUI and Oreo navbars (kang 100)
 
 • Everyone who helped me (especially djdarkknight96, who taught me the basics)
