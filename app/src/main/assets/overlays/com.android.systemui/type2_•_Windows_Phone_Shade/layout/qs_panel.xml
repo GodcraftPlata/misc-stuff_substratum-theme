@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.android.systemui.qs.QSContainerImpl android:id="@id/quick_settings_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <View android:id="@id/quick_settings_background" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="0dp" android:elevation="4dp" />
-    <View android:id="@id/quick_settings_status_bar_background" android:background="@android:color/background_dark" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="@android:dimen/navigation_bar_frame_height_landscape" />
-    <View android:id="@id/quick_settings_gradient_view" android:background="@android:color/background_dark" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="126dp" android:layout_marginTop="@android:dimen/navigation_bar_frame_height_landscape" />
-    <com.android.systemui.qs.QSPanel android:id="@id/quick_settings_panel" android:background="@android:color/background_dark" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@android:dimen/navigation_bar_frame_height_landscape" android:layout_marginBottom="@dimen/qs_footer_height" android:elevation="4dp" android:accessibilityTraversalBefore="@id/qs_carrier_text" />
-</com.android.systemui.qs.QSContainerImpl>
