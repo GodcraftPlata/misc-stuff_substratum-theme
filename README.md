@@ -21,7 +21,9 @@ As for now, we got the following:
 
 • iOS Recents on Lawnchair (broken)
 
-• MIUI and Oreo navbars
+• MIUI, Oreo and Windows 10 Mobile navbars
+
+• Windows 10 Mobile status bar
 
 Another thing to note, I use master for everything. If something breaks there, I'll just fix it.
 
@@ -35,5 +37,19 @@ https://drive.google.com/open?id=1n_TEWBE1ZHpfbSeGFCiFb-Y8PBkyHiZD
 • pierx for the inspiration to make a little splash screen (even if it isn't working, like at all)
 
 • AndyYan (XDA) for letting me use his navbar overlays for MIUI and Oreo navbars (kang 100)
+
+• [Left icon](https://icons8.com/icons/set/left) icon by [Icons8](https://icons8.com)
+
+• [Windows Client icon](https://icons8.com/icons/set/windows-client--v1) icon by [Icons8](https://icons8.com)
+
+• [Search icon](https://icons8.com/icons/set/search) icon by [Icons8](https://icons8.com)
+
+• Airplane, silent, vibration and Wi-Fi icons made by [Freepik](www.flaticon.com/authors/freepik) from [Flaticon](www.flaticon.com)
+
+• Do Not Disturb icon made by [Good Ware](www.flaticon.com/authors/good-ware) from [Flaticon](www.flaticon.com)
+
+• Cast and location icons made by [Google](www.flaticon.com/authors/google) from [Flaticon](www.flaticon.com)
+
+• Signal icon made by [Pixel Perfect](www.flaticon.com/authors/pixel-perfect) from [Flaticon](www.flaticon.com)
 
 • Everyone who helped me (especially djdarkknight96, who taught me the basics)
