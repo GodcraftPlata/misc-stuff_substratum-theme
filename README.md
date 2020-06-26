@@ -3,6 +3,7 @@ Hello there! I'm glad to say that I got as far as I wanted with this project. Mo
 
 As for now, we got the following:
 
+
 • WhatsApp overlay that changes the emojis within the app (only Unicode emojis option tho)
 
 • Hello Moto bootanimation
@@ -25,6 +26,9 @@ As for now, we got the following:
 
 • Windows 10 Mobile status bar
 
+• Corner rounding settings (thanks to @DanGLES3)
+
+
 Another thing to note, I use master for everything. If something breaks there, I'll just fix it.
 
 Lastly, if bootanimations or sound packs aren't being applied, go to the following link to apply them manually:
@@ -37,6 +41,8 @@ https://drive.google.com/open?id=1n_TEWBE1ZHpfbSeGFCiFb-Y8PBkyHiZD
 • pierx for the inspiration to make a little splash screen (even if it isn't working, like at all)
 
 • AndyYan (XDA) for letting me use his navbar overlays for MIUI and Oreo navbars (kang 100)
+
+• @DanGLES3 for the help with corner rounding
 
 • [Left icon](https://icons8.com/icons/set/left) icon by [Icons8](https://icons8.com)
 
